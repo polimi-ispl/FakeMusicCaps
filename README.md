@@ -32,39 +32,6 @@
 Text-To-Music (TTM) models have recently revolutionized the automatic music generation research field. Specifically, by reaching superior performances to all previous state-of-the-art models and by lowering the technical proficiency needed to use them. Due to these reasons, they have readily started to be adopted for commercial uses and music production practices. This widespread diffusion of TTMs poses several concerns regarding copyright violation and rightful attribution, posing the need of serious consideration of them by the audio forensics community. In this paper, we tackle the problem of detection and attribution of TTM-generated data. We propose a dataset, FakeMusicCaps that contains several versions of the music-caption pairs dataset MusicCaps re-generated via several state-of-the-art TTM techniques. We evaluate the proposed dataset by performing initial experiments regarding the detection and attribution of TTM-generated audio.
 
 
-## Install & Usage
-
-
-### Intalling AudioLDM2
-
-```
-cd audio_generation
-python class_generation_audioldm.py
-```
-
-
-### Intalling AudioGen
-
-Please refer to the [AudioGen GitHub repo](https://github.com/facebookresearch/audiocraft/blob/main/docs/AUDIOGEN.md#installation) and follow the installation instructions. 
-
-When AudioGen has been installed, you can generate the audio files running the script <i>audio_generation/class_generation_audiogen.py</i>.
-Before running the script, you need to specify the path to the output folder, the audio class to generate, the prompt to use to generate the files, and the number of files to generate in the <i>audio_generation/class_generation_audiogen.py</i>. 
-
-```
-cd audio_generation
-python class_generation_audiogen.py
-```
-
-### Run the code
-
-```
-pip install -r requirements.txt
-```
-
-```
-python main.py
-```
-
 ## Link to additional material
 
 The full FakeMusicCaps dataset can be downloaded at [companion website](https://zenodo.org/records/13732524). 
