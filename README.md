@@ -8,7 +8,7 @@
 
 <sup>1</sup> Dipartimento di Elettronica, Informazione e Bioingegneria - Politecnico di Milano<br>
     
-[![arXiv](https://img.shields.io/badge/arXiv-2403.17864-b31b1b.svg)](https://arxiv.org/abs/2403.17864)
+[![arXiv](https://img.shields.io/badge/arXiv-2403.17864-b31b1b.svg)](https://arxiv.org/abs/2409.10684)
 
 </div>
 
