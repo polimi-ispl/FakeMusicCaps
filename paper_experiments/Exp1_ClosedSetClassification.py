@@ -1,3 +1,5 @@
+import sys
+sys.path.append('../')
 import argparse
 import data_lib
 import network_models_lib
