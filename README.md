@@ -39,7 +39,7 @@ Text-To-Music (TTM) models have recently revolutionized the automatic music gene
 
 ## Link to additional material
 
-The full FakeMusicCaps dataset can be downloaded at [companion website](https://zenodo.org/records/13732524). 
+The full FakeMusicCaps dataset can be downloaded at [companion website](https://zenodo.org/records/15063698). 
 
 
 ## Additional information
