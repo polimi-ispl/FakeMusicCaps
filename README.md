@@ -10,7 +10,7 @@
     
 [![arXiv](https://img.shields.io/badge/arXiv-2409.10684-b31b1b.svg)](https://arxiv.org/abs/2409.10684)
 [![License: CC BY-NC 4.0](https://upload.wikimedia.org/wikipedia/commons/d/d3/Cc_by-nc_icon.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13732524.svg)](https://doi.org/10.5281/zenodo.13732524)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13732524.svg)](https://doi.org/10.5281/zenodo.15063698)
 
 </div>
 
