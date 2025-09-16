@@ -51,15 +51,18 @@ For more details:
 If you use code or comments from this work, please cite our paper:
 
 ```BibTex
-
-@misc{comanducci2024fakemusiccapsdatasetdetectionattribution,
-      title={FakeMusicCaps: a Dataset for Detection and Attribution of Synthetic Music Generated via Text-to-Music Models}, 
-      author={Luca Comanducci and Paolo Bestagini and Stefano Tubaro},
-      year={2024},
-      eprint={2409.10684},
-      archivePrefix={arXiv},
-      primaryClass={eess.AS},
-      url={https://arxiv.org/abs/2409.10684}, 
+@Article{comanducci2025fakemusiccaps,
+AUTHOR = {Comanducci, Luca and Bestagini, Paolo and Tubaro, Stefano},
+TITLE = {FakeMusicCaps: A Dataset for Detection and Attribution of Synthetic Music Generated via Text-to-Music Models},
+JOURNAL = {Journal of Imaging},
+VOLUME = {11},
+YEAR = {2025},
+NUMBER = {7},
+ARTICLE-NUMBER = {242},
+URL = {https://www.mdpi.com/2313-433X/11/7/242},
+PubMedID = {40710628},
+ISSN = {2313-433X},
+DOI = {10.3390/jimaging11070242}
 }
 ```
 
